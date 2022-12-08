@@ -1,2 +1,3 @@
 # latex-bibliography
- LaTeX style file to format academic bibliographies
+
+LaTeX style file to format academic bibliographies
